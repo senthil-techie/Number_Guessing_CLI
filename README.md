@@ -59,4 +59,4 @@ Welcome to the Number Guessing Game! I'm thinking of a number between 1 and 100.
 🔁 Replay option
 
 Play the game multiple times without restarting the program
-https://roadmap.sh/projects/Number_Guessing_CLI
+https://roadmap.sh/projects/number-guessing-game
